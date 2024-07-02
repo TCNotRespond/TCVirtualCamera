@@ -1,8 +1,3 @@
-import os
-import time
-
-from PySide6.QtCore import QObject, Slot
-
 from design import Ui_TCVirtualCamera
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog
 from PySide6.QtCore import QObject, QThread, Signal

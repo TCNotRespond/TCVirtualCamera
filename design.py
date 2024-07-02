@@ -133,4 +133,3 @@ class Ui_TCVirtualCamera(object):
         self.pushButton_4.setText(QCoreApplication.translate("TCVirtualCamera", u"\u786e\u5b9a", None))
         self.pushButton_5.setText(QCoreApplication.translate("TCVirtualCamera", u"\u53d6\u6d88", None))
     # retranslateUi
-
